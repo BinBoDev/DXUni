@@ -1,0 +1,169 @@
+﻿<Window x:Class="DX.View.DataSPWD"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:DX.View"
+        mc:Ignorable="d"
+        Icon="/DX;component/View/Image/Uni.ico"
+        Title="Dữ liệu Sainpen" Height="450" Width="800">
+    <Grid>
+        <Border>
+            <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+                <materialDesign:Card Margin="2">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="40"/>
+                        </Grid.RowDefinitions>
+                        <!-- Header Control-->
+                        <materialDesign:Card Margin="2">
+                            <StackPanel Orientation="Horizontal">
+                                <Button Command="{Binding }">
+                                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                        <materialDesign:PackIcon Kind="ClipboardTextSearchOutline" Margin="2,0,2,0"/>
+                                        <TextBlock Text="Tìm nhập" Margin="2,0,2,0"/>
+                                    </StackPanel>
+                                </Button>
+                                <Grid Width="120">
+                                    <Button
+                                        Command="{Binding }"
+                                        Background="Green"
+                                        Margin="2,0"
+                                        materialDesign:ButtonProgressAssist.IsIndeterminate="True"
+                                        materialDesign:ButtonProgressAssist.IsIndicatorVisible="True"
+                                        materialDesign:ButtonProgressAssist.Value="-1"
+                                        Content="Nhập liệu"
+                                        IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                                        Style="{StaticResource MaterialDesignRaisedButton}"
+                                        />
+                                </Grid>
+                            </StackPanel>
+                        </materialDesign:Card>
+                        <!-- Nội dung hiển thị-->
+                        <DataGrid Grid.Row="1">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Id"/>
+                                <DataGridTextColumn Header="Mã KH"/>
+                                <DataGridTextColumn Header="Mã lô LR"/>
+                                <DataGridTextColumn Header="Code(MPV)"/>
+                                <DataGridTextColumn Header="Code JK"/>
+                                <DataGridTextColumn Header="Code"/>
+                                <DataGridTextColumn Header="Chungloaichinh"/>
+                                <DataGridTextColumn Header="Tên SP"/>
+                                <DataGridTextColumn Header="Màu"/>
+                                <DataGridTextColumn Header="Dây chuyền"/>
+                                <DataGridTextColumn Header="Tên dây chuyền"/>
+                                <DataGridTextColumn Header="Nhóm LR"/>
+                                <DataGridTextColumn Header="Tháng KH"/>
+                                <DataGridTextColumn Header="Năm KH"/>
+                                <DataGridTextColumn Header="KH Lần"/>
+                                <DataGridTextColumn Header="Số theo KH"/>
+                                <DataGridTextColumn Header="Ngày LR"/>
+                                <DataGridTextColumn Header="Số lô"/>
+                                <DataGridTextColumn Header="SLLR chỉ thị"/>
+                                <DataGridTextColumn Header="Số lượng thu được"/>
+                                <DataGridTextColumn Header="Số lượng hủy"/>
+                                <DataGridTextColumn Header="Số lượng sửa"/>
+                                <DataGridTextColumn Header="Phế phẩm trên máy"/>
+                                <DataGridTextColumn Header="Số lượng mẫu QC"/>
+                                <DataGridTextColumn Header="Thời gian bắt đầu"/>
+                                <DataGridTextColumn Header="Thời gian kết thúc"/>
+                                <DataGridTextColumn Header="Thời gian dừng KH"/>
+                                <DataGridTextColumn Header="Thời gian hao hụt"/>
+                                <DataGridTextColumn Header="OEE(%)"/>
+                                <DataGridTextColumn Header="Thời gian làm việc ngày"/>
+                                <DataGridTextColumn Header="Thời gian chạy tái"/>
+                                <DataGridTextColumn Header="Thời gian hoạt động máy"/>
+                                <DataGridTextColumn Header="Thời gian chạy rỗng"/>
+                                <DataGridTextColumn Header="Tỷ lệ thành phẩm"/>
+                                <DataGridTextColumn Header="Tốc độ d/c"/>
+                                <DataGridTextColumn Header="Ngày đóng hộp"/>
+                                <DataGridTextColumn Header="Số lô đóng hộp"/>
+                                <DataGridTextColumn Header="Số lượng đóng hôp"/>
+                                <DataGridTextColumn Header="Hủy đóng hộp"/>
+                                <DataGridTextColumn Header="Sửa đóng hộp"/>
+                                <DataGridTextColumn Header="Phế phẩm hủy đóng hộp"/>
+                                <DataGridTextColumn Header="Phế phẩm sửa đóng hộp"/>
+                                <DataGridTextColumn Header="Nâng suốt đóng hộp"/>
+                                <DataGridTextColumn Header="Thời điểm chỉ thị"/>
+                                <DataGridTextColumn Header="Thời điểm nhập kho"/>
+                                <DataGridTextColumn Header="Bẩn khác"/>
+                                <DataGridTextColumn Header="Bẩn mực"/>
+                                <DataGridTextColumn Header="Bẩn thân trước"/>
+                                <DataGridTextColumn Header="Bọt khí"/>
+                                <DataGridTextColumn Header="Bẩn tóc"/>
+                                <DataGridTextColumn Header="Chảy mực"/>
+                                <DataGridTextColumn Header="Hở đuôi"/>
+                                <DataGridTextColumn Header="Hở nắp"/>
+                                <DataGridTextColumn Header="In hỏng"/>
+                                <DataGridTextColumn Header="Thừa thiếu bi"/>
+                                <DataGridTextColumn Header="Không nhãn nắp"/>
+                                <DataGridTextColumn Header="Lệch thân trước"/>
+                                <DataGridTextColumn Header="Méo miệng Body"/>
+                                <DataGridTextColumn Header="Bút méo"/>
+                                <DataGridTextColumn Header="Nắp không dập"/>
+                                <DataGridTextColumn Header="Ngòi dài"/>
+                                <DataGridTextColumn Header="Ngòi NG"/>
+                                <DataGridTextColumn Header="Ngòi ngắn"/>
+                                <DataGridTextColumn Header="Ngòi ngược"/>
+                                <DataGridTextColumn Header="Nhãn nắp NG"/>
+                                <DataGridTextColumn Header="Phế phẩm do NL"/>
+                                <DataGridTextColumn Header="Short đuôi"/>
+                                <DataGridTextColumn Header="Số lô hỏng"/>
+                                <DataGridTextColumn Header="Thừa thiếu NL"/>
+                                <DataGridTextColumn Header="Tuột nắp"/>
+                                <DataGridTextColumn Header="Tụt mực"/>
+                                <DataGridTextColumn Header="Thân in hỏng"/>
+                                <DataGridTextColumn Header="Ngòi nghiêng"/>
+                                <DataGridTextColumn Header="Ngòi phình"/>
+                                <DataGridTextColumn Header="Bẩn bụi"/>
+                                <DataGridTextColumn Header="Lỗi lắp ghép"/>
+                                <DataGridTextColumn Header="Lỗi do Thành Hình"/>
+                                <DataGridTextColumn Header="Sứt xước"/>
+                                <DataGridTextColumn Header="Lỗi khác"/>
+                                <DataGridTextColumn Header="Nắp bẩn"/>
+                                <DataGridTextColumn Header="Nắp rơi"/>
+                                <DataGridTextColumn Header="Nhãn POS đứt"/>
+                                <DataGridTextColumn Header="Nhãn có tạp vật"/>
+                                <DataGridTextColumn Header="Xước thân"/>
+                                <DataGridTextColumn Header="Lỗi Infilm"/>
+                                <DataGridTextColumn Header="Bẩn bụi 202"/>
+                                <DataGridTextColumn Header="Mực chảy đóng hộp"/>
+                                <DataGridTextColumn Header="Bút méo đóng hộp"/>
+                                <DataGridTextColumn Header="Nhãn hỏng đóng hộp"/>
+                                <DataGridTextColumn Header="Không có nhãn đóng hộp"/>
+                                <DataGridTextColumn Header="Bẩn mực đóng hộp"/>
+                                <DataGridTextColumn Header="Bẩn  khác đóng hộp"/>
+                                <DataGridTextColumn Header="Bẩn keo đóng hộp"/>
+                                <DataGridTextColumn Header="Bẩn tóc đóng hộp"/>
+                                <DataGridTextColumn Header="Tuột nắp đóng hộp"/>
+                                <DataGridTextColumn Header="Bọc hỏng đóng hộp"/>
+                                <DataGridTextColumn Header="Phế liệu bút đóng hộp"/>
+                                <DataGridTextColumn Header="Ghi chú"/>
+                                <DataGridTemplateColumn Header="Delete">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                                <Button Name="btnDel" Background="Red" >
+                                                    <StackPanel Orientation="Horizontal">
+                                                        <materialDesign:PackIcon Kind="DeleteOutline"  />
+                                                        <TextBlock Text="Xóa"/>
+                                                    </StackPanel>
+                                                </Button>
+                                            
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+
+
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        <!-- Footer Control-->
+                    </Grid>
+                </materialDesign:Card>
+            </ScrollViewer>
+        </Border>
+    </Grid>
+</Window>

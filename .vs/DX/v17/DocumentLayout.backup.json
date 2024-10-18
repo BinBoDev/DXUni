@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\User\\CopyDataFromPC\\PhanmemQCC\\App\\DX241008Home\\DX241008Home\\DX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\user\\copydatafrompc\\phanmemqcc\\app\\dx241008home\\dx241008home\\dx\\dx\\view\\dataspwd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\view\\dataspwd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\user\\copydatafrompc\\phanmemqcc\\app\\dx241008home\\dx241008home\\dx\\dx\\models\\datasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\models\\datasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\user\\copydatafrompc\\phanmemqcc\\app\\dx241008home\\dx241008home\\dx\\dx\\view\\xuatnlwd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\view\\xuatnlwd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\user\\copydatafrompc\\phanmemqcc\\app\\dx241008home\\dx241008home\\dx\\dx\\view\\accountmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\view\\accountmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\user\\copydatafrompc\\phanmemqcc\\app\\dx241008home\\dx241008home\\dx\\dx\\viewmodel\\accountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\viewmodel\\accountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountVM.cs",
+              "DocumentMoniker": "D:\\User\\CopyDataFromPC\\PhanmemQCC\\App\\DX241008Home\\DX241008Home\\DX\\DX\\ViewModel\\AccountVM.cs",
+              "RelativeDocumentMoniker": "DX\\ViewModel\\AccountVM.cs",
+              "ToolTip": "D:\\User\\CopyDataFromPC\\PhanmemQCC\\App\\DX241008Home\\DX241008Home\\DX\\DX\\ViewModel\\AccountVM.cs",
+              "RelativeToolTip": "DX\\ViewModel\\AccountVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:25:57.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountManager.xaml",
+              "DocumentMoniker": "D:\\User\\CopyDataFromPC\\PhanmemQCC\\App\\DX241008Home\\DX241008Home\\DX\\DX\\View\\AccountManager.xaml",
+              "RelativeDocumentMoniker": "DX\\View\\AccountManager.xaml",
+              "ToolTip": "D:\\User\\CopyDataFromPC\\PhanmemQCC\\App\\DX241008Home\\DX241008Home\\DX\\DX\\View\\AccountManager.xaml",
+              "RelativeToolTip": "DX\\View\\AccountManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T06:43:20.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XuatNLWD.xaml",
+              "DocumentMoniker": "D:\\User\\CopyDataFromPC\\PhanmemQCC\\App\\DX241008Home\\DX241008Home\\DX\\DX\\View\\XuatNLWD.xaml",
+              "RelativeDocumentMoniker": "DX\\View\\XuatNLWD.xaml",
+              "ToolTip": "D:\\User\\CopyDataFromPC\\PhanmemQCC\\App\\DX241008Home\\DX241008Home\\DX\\DX\\View\\XuatNLWD.xaml",
+              "RelativeToolTip": "DX\\View\\XuatNLWD.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T00:32:56.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSP.cs",
+              "DocumentMoniker": "D:\\User\\CopyDataFromPC\\PhanmemQCC\\App\\DX241008Home\\DX241008Home\\DX\\DX\\Models\\DataSP.cs",
+              "RelativeDocumentMoniker": "DX\\Models\\DataSP.cs",
+              "ToolTip": "D:\\User\\CopyDataFromPC\\PhanmemQCC\\App\\DX241008Home\\DX241008Home\\DX\\DX\\Models\\DataSP.cs",
+              "RelativeToolTip": "DX\\Models\\DataSP.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:24:52.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSPWD.xaml",
+              "DocumentMoniker": "D:\\User\\CopyDataFromPC\\PhanmemQCC\\App\\DX241008Home\\DX241008Home\\DX\\DX\\View\\DataSPWD.xaml",
+              "RelativeDocumentMoniker": "DX\\View\\DataSPWD.xaml",
+              "ToolTip": "D:\\User\\CopyDataFromPC\\PhanmemQCC\\App\\DX241008Home\\DX241008Home\\DX\\DX\\View\\DataSPWD.xaml",
+              "RelativeToolTip": "DX\\View\\DataSPWD.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T09:05:38.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
