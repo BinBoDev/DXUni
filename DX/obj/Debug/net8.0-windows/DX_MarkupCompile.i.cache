@@ -9,12 +9,21 @@ DX
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+<<<<<<< HEAD
 D:\OneDrive\OneDrive - Cong ty TNHH But chi Mitsubishi Viet nam\Desktop\DXSP\DXUni\DX\App.xaml
 6794070569
 
 181642467705
 253359198332
 MainWindow.xaml;View\AccountManager.xaml;View\Admin.xaml;View\DataSP.xaml;View\DataSPWD.xaml;View\XuatNLWD.xaml;
+=======
+D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\App.xaml
+5-1951308976
+
+212085026632
+253-505279229
+MainWindow.xaml;View\AccountManager.xaml;View\Admin.xaml;View\DataSPWD.xaml;View\XuatNLWD.xaml;
+>>>>>>> 43a0cccafbc577b6d7f02538f6f45469ff3b4280
 
 False
 

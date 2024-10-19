@@ -883,7 +883,6 @@ D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\
 D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\MainWindow.g.cs
 D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\View\AccountManager.g.cs
 D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\View\Admin.g.cs
-D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\View\DataSP.g.cs
 D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\View\DataSPWD.g.cs
 D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\View\XuatNLWD.g.cs
 D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\App.g.cs
@@ -894,7 +893,6 @@ D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\
 D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\MainWindow.baml
 D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\View\AccountManager.baml
 D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\View\Admin.baml
-D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\View\DataSP.baml
 D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\View\DataSPWD.baml
 D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\View\XuatNLWD.baml
 D:\User\CopyDataFromPC\PhanmemQCC\App\DX241008Home\DX241008Home\DX\DX\obj\Debug\net8.0-windows\DX.g.resources

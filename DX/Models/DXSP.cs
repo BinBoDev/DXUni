@@ -37,6 +37,13 @@ namespace DX.Models
         public DbSet<Account> accounts { get; set; }
         //Khai báo một Table XuatNL
         public DbSet<XuatNL> xuatNLs { get; set; }
+        //Khai báo một Table DataSP
+        //public DbSet<DataSP> dataSPs { get; set; }
+        //Khai báo một Table XNLDH
+        public DbSet<DataXNLDH> dataXNLDHs { get; set; }
+        // Khai báo một Table SPDH
+       // public DbSet<DataSPDH> dataSPDHs { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
