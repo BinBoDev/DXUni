@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\OneDrive\\OneDrive - Cong ty TNHH But chi Mitsubishi Viet nam\\Desktop\\DXSP\\DXUni\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\onedrive\\onedrive - cong ty tnhh but chi mitsubishi viet nam\\desktop\\dxsp\\dxuni\\dx\\models\\dxsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\models\\dxsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\onedrive\\onedrive - cong ty tnhh but chi mitsubishi viet nam\\desktop\\dxsp\\dxuni\\dx\\models\\datasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\models\\datasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\onedrive\\onedrive - cong ty tnhh but chi mitsubishi viet nam\\desktop\\dxsp\\dxuni\\dx\\view\\dataspwd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\view\\dataspwd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\onedrive\\onedrive - cong ty tnhh but chi mitsubishi viet nam\\desktop\\dxsp\\dxuni\\dx\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\onedrive\\onedrive - cong ty tnhh but chi mitsubishi viet nam\\desktop\\dxsp\\dxuni\\dx\\view\\dataspwd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\view\\dataspwd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\onedrive\\onedrive - cong ty tnhh but chi mitsubishi viet nam\\desktop\\dxsp\\dxuni\\dx\\models\\datasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\models\\datasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\onedrive\\onedrive - cong ty tnhh but chi mitsubishi viet nam\\desktop\\dxsp\\dxuni\\dx\\models\\dxsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\models\\dxsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,16 +26,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DXSP.cs",
               "DocumentMoniker": "D:\\OneDrive\\OneDrive - Cong ty TNHH But chi Mitsubishi Viet nam\\Desktop\\DXSP\\DXUni\\DX\\Models\\DXSP.cs",
               "RelativeDocumentMoniker": "DX\\Models\\DXSP.cs",
-              "ToolTip": "D:\\OneDrive\\OneDrive - Cong ty TNHH But chi Mitsubishi Viet nam\\Desktop\\DXSP\\DXUni\\DX\\Models\\DXSP.cs*",
-              "RelativeToolTip": "DX\\Models\\DXSP.cs*",
+              "ToolTip": "D:\\OneDrive\\OneDrive - Cong ty TNHH But chi Mitsubishi Viet nam\\Desktop\\DXSP\\DXUni\\DX\\Models\\DXSP.cs",
+              "RelativeToolTip": "DX\\Models\\DXSP.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T14:44:44.529Z",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DataSP.cs",
               "DocumentMoniker": "D:\\OneDrive\\OneDrive - Cong ty TNHH But chi Mitsubishi Viet nam\\Desktop\\DXSP\\DXUni\\DX\\Models\\DataSP.cs",
               "RelativeDocumentMoniker": "DX\\Models\\DataSP.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\OneDrive\\OneDrive - Cong ty TNHH But chi Mitsubishi Viet nam\\Desktop\\DXSP\\DXUni\\DX\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DX\\MainWindow.xaml",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DataSPWD.xaml",
               "DocumentMoniker": "D:\\OneDrive\\OneDrive - Cong ty TNHH But chi Mitsubishi Viet nam\\Desktop\\DXSP\\DXUni\\DX\\View\\DataSPWD.xaml",
               "RelativeDocumentMoniker": "DX\\View\\DataSPWD.xaml",
