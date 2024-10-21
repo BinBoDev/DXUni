@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DX.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,7 @@ namespace DX.View
         public DataSPWD()
         {
             InitializeComponent();
+            this.DataContext = new DataSPVM();
         }
     }
 }

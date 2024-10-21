@@ -93,6 +93,7 @@ namespace DX.Models
         public DateTime? Thoidiemnhapkho { get; set; }
         public int? Bankhac { get; set; }
         public int? Banmuc { get; set; }
+        public int? Banthantruoc { get; set; }
         public int? Botkhi {  get; set; }
         public int? Bantoc { get; set; }
         public int? Chaymuc { get; set; }

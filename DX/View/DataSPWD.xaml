@@ -29,7 +29,7 @@
                                 </Button>
                                 <Grid Width="120">
                                     <Button
-                                        Command="{Binding }"
+                                        Command="{Binding ImportDataCommand}"
                                         Background="Green"
                                         Margin="2,0"
                                         materialDesign:ButtonProgressAssist.IsIndeterminate="True"
