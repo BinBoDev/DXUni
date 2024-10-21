@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DX.Models
 {
-    //[Table("DataSP")]
+    [Table("DataSP")]
     public class DataSP
     {
         public int Id { get; set; }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DX.Models
 {
-    //[Table("SPDH")]
+    [Table("SPDH")]
     public class DataSPDH
     {
         public int Id { get; set; }

@@ -5059,11 +5059,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\OneDrive - Cong ty TNHH But chi Mitsubishi Viet nam\\Desktop\\DXSP\\DXUni\\DX\\DX.csproj",
+      "projectUniqueName": "D:\\Project\\DXSP\\DXUni\\DX\\DX.csproj",
       "projectName": "DX",
-      "projectPath": "D:\\OneDrive\\OneDrive - Cong ty TNHH But chi Mitsubishi Viet nam\\Desktop\\DXSP\\DXUni\\DX\\DX.csproj",
+      "projectPath": "D:\\Project\\DXSP\\DXUni\\DX\\DX.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\OneDrive - Cong ty TNHH But chi Mitsubishi Viet nam\\Desktop\\DXSP\\DXUni\\DX\\obj\\",
+      "outputPath": "D:\\Project\\DXSP\\DXUni\\DX\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

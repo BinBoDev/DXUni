@@ -54,6 +54,12 @@
                             Header="DataSainpen"
                             Icon="{materialDesign:PackIcon Kind=DatabaseEditOutline}"
                             />
+                        <MenuItem
+                            Click="NextPageDataSainpen"
+                            Header="Sản phẩm "
+                            Icon="{materialDesign:PackIcon Kind=DatabaseEditOutline}"
+                            />
+
 
                     </MenuItem>
                     <!--Menu Edit-->
