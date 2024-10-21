@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Project\\DXSP\\DXUni\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\project\\dxsp\\dxuni\\dx\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\project\\dxsp\\dxuni\\dx\\viewmodel\\dataspvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\viewmodel\\dataspvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\project\\dxsp\\dxuni\\dx\\models\\datasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\models\\datasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\project\\dxsp\\dxuni\\dx\\models\\dxsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\models\\dxsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|d:\\project\\dxsp\\dxuni\\dx\\viewmodel\\xuatnlvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70731619-2274-423E-B1D3-CE8B07B16276}|DX\\DX.csproj|solutionrelative:dx\\viewmodel\\xuatnlvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +35,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\DXSP\\DXUni\\DX\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DX\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Project\\DXSP\\DXUni\\DX\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DX\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:48:14.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XuatNLVM.cs",
+              "DocumentMoniker": "D:\\Project\\DXSP\\DXUni\\DX\\ViewModel\\XuatNLVM.cs",
+              "RelativeDocumentMoniker": "DX\\ViewModel\\XuatNLVM.cs",
+              "ToolTip": "D:\\Project\\DXSP\\DXUni\\DX\\ViewModel\\XuatNLVM.cs",
+              "RelativeToolTip": "DX\\ViewModel\\XuatNLVM.cs",
+              "ViewState": "AgIAAE8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:06:30.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DXSP.cs",
+              "DocumentMoniker": "D:\\Project\\DXSP\\DXUni\\DX\\Models\\DXSP.cs",
+              "RelativeDocumentMoniker": "DX\\Models\\DXSP.cs",
+              "ToolTip": "D:\\Project\\DXSP\\DXUni\\DX\\Models\\DXSP.cs",
+              "RelativeToolTip": "DX\\Models\\DXSP.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:03:00.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSP.cs",
+              "DocumentMoniker": "D:\\Project\\DXSP\\DXUni\\DX\\Models\\DataSP.cs",
+              "RelativeDocumentMoniker": "DX\\Models\\DataSP.cs",
+              "ToolTip": "D:\\Project\\DXSP\\DXUni\\DX\\Models\\DataSP.cs",
+              "RelativeToolTip": "DX\\Models\\DataSP.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:02:29.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DataSPVM.cs",
               "DocumentMoniker": "D:\\Project\\DXSP\\DXUni\\DX\\ViewModel\\DataSPVM.cs",
               "RelativeDocumentMoniker": "DX\\ViewModel\\DataSPVM.cs",
               "ToolTip": "D:\\Project\\DXSP\\DXUni\\DX\\ViewModel\\DataSPVM.cs",
               "RelativeToolTip": "DX\\ViewModel\\DataSPVM.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAKQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:56:49.464Z",
+              "WhenOpened": "2024-10-21T08:35:06.113Z",
               "EditorCaption": ""
             }
           ]

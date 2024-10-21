@@ -1231,3 +1231,5 @@ D:\Project\DXSP\DXUni\DX\obj\Debug\net8.0-windows\refint\DX.dll
 D:\Project\DXSP\DXUni\DX\obj\Debug\net8.0-windows\DX.pdb
 D:\Project\DXSP\DXUni\DX\obj\Debug\net8.0-windows\DX.genruntimeconfig.cache
 D:\Project\DXSP\DXUni\DX\obj\Debug\net8.0-windows\ref\DX.dll
+D:\Project\DXSP\DXUni\DX\obj\Debug\net8.0-windows\View\SPDHWD.g.cs
+D:\Project\DXSP\DXUni\DX\obj\Debug\net8.0-windows\View\SPDHWD.baml

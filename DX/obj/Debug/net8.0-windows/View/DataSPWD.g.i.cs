@@ -56,7 +56,7 @@ namespace DX.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/DX;V1.0.0.0;component/view/dataspwd.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/DX;component/view/dataspwd.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\DataSPWD.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

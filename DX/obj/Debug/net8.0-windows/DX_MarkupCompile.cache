@@ -10,15 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\Project\DXSP\DXUni\DX\App.xaml
-5-1951308976
+681741749
 
-191298184090
-<<<<<<< HEAD
+211963642110
 253359198332
-=======
-253-505279229
->>>>>>> 3c36aa7ec2e4d19756f68f5fddb8027349c1a9ae
-MainWindow.xaml;View\AccountManager.xaml;View\Admin.xaml;View\DataSPWD.xaml;View\XuatNLWD.xaml;
+MainWindow.xaml;View\AccountManager.xaml;View\Admin.xaml;View\DataSPWD.xaml;View\SPDHWD.xaml;View\XuatNLWD.xaml;
 
 False
 
